@@ -1,3 +1,7 @@
+Install by pip 
+You have to compress folder to .tar.xz
+pip install python-broadlink.tar.xz
+
 Python control for Broadlink RM2 IR controllers
 ===============================================
 
